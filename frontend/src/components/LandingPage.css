@@ -1,0 +1,87 @@
+.LandingPage {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .LandingPage-header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  .LandingPage-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+  }
+  
+  .LandingPage-hero-text {
+    text-align: center;
+    margin-top: 2em;
+  }
+  
+  .LandingPage-hero-text h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .LandingPage-hero-text p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .LandingPage-features {
+    padding: 2em;
+  }
+  
+  .LandingPage-features ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .LandingPage-features li {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .LandingPage-features i {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .LandingPage-testimonials {
+    padding: 2em;
+    background-color: #f7f7f7;
+  }
+  
+  .LandingPage-testimonials ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .LandingPage-testimonials li {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .LandingPage-testimonials span {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .LandingPage-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+  }
